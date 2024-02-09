@@ -59,6 +59,17 @@ ul li{
     text-align: center;
     list-style: none;
 }
+.pics{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+}
 footer{
     color: white;
     text-align: center;
