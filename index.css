@@ -43,6 +43,22 @@ header a:hover::before{
     transform: scaleX(1);
     transform-origin: left;
 }
+main{
+    margin: 20px;
+}
+h2{
+    text-align: center;
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+ul li{
+    text-align: center;
+    list-style: none;
+}
 footer{
     color: white;
     text-align: center;
